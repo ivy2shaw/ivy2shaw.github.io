@@ -11,17 +11,17 @@ main:
  # - title: "Talks"
  #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "about"
+    url: /about/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "teaching"
+    url: /teaching/
         
- # - title: "Blog Posts"
- #   url: /year-archive/
+  - title: "reasearch"
+    url: /research/
     
   - title: "CV"
     url: /cv/
     
- # - title: "Guide"
- #   url: /markdown/ 
+  - title: "contact"
+    url: /contact/ 
